@@ -4,6 +4,15 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class totalLinkInPage {
+	
+	public void test2()
+	{
+		Priya Srivastava
+		Priya Srivastava
+		Priya Srivastava
+		Priya Srivastava
+		Priya Srivastava
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -25,6 +34,15 @@ public class totalLinkInPage {
 		{
 			rowDriver.findElements(By.tagName("a")).get(i).click();
 		}
+	}
+	
+	public void test2()
+	{
+		Kaisha Srivastava
+		Kaisha Srivastava
+		Kaisha Srivastava
+		Kaisha Srivastava
+		Kaisha Srivastava
 	}
 
 }
