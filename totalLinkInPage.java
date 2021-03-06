@@ -5,13 +5,13 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class totalLinkInPage {
 	
-	public void test2()
+	public void test1()
 	{
-		Priya Srivastava
-		Priya Srivastava
-		Priya Srivastava
-		Priya Srivastava
-		Priya Srivastava
+		Amit Kumar Srivastava
+		Amit Kumar Srivastava
+		Amit Kumar Srivastava
+		Amit Kumar Srivastava
+		Amit Kumar Srivastava
 	}
 
 	public static void main(String[] args) {
@@ -36,13 +36,13 @@ public class totalLinkInPage {
 		}
 	}
 	
-	public void test2()
+	public void test1()
 	{
-		Kaisha Srivastava
-		Kaisha Srivastava
-		Kaisha Srivastava
-		Kaisha Srivastava
-		Kaisha Srivastava
+		Rinku Srivastava
+		Rinku Srivastava
+		Rinku Srivastava
+		Rinku Srivastava
+		Rinku Srivastava
 	}
 
 }
